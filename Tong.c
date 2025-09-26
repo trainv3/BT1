@@ -9,6 +9,7 @@ printf("Nhap so b=");
 scanf("%d",&b);
  Tong=a+b;
 Hieu =a-b;
+ //IN RA TINH TONG;
 printf("Tong a+b =%d",Tong);
 printf("\n Hieu a-b=%d",Hieu);
 return 0;
